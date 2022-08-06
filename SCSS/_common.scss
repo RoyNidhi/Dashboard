@@ -1,0 +1,50 @@
+h2{
+    font-size: 40px;
+    font-weight: 500;
+}
+h3{
+    font-size:26px;
+    font-weight: 500;
+}
+h4{
+    font-size:18px;
+    color: $textGrey;
+    font-weight: 500;
+    margin-top:10px;
+}
+.f-20{
+    font-size:20px;
+    color: $text-color1;
+}
+.f-18{
+    font-size:18px;
+    color: $text-color1;
+}
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+.space-between{
+    justify-content: space-between;
+}
+.gap{
+    gap:30px;
+}
+.flex-basis{
+    flex:1;
+}
+.space{
+    gap:20px;
+    padding-top:10px;
+}
+.align-content{
+    align-items: center;
+}
+.desc-text span{
+    color: $textGrey;
+}
+.desc-text{
+    font-size:22px;
+    font-weight: 500;
+    margin-top: -10px;
+}
